@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/TaskApp"
+		},
+		{
+			"path": "../cypress/cypress"
+		}
+	],
+	"settings": {}
+}
